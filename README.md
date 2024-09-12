@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vcc0827
-- 👀 I’m interested in Apache ECharts 5 
-- 🌱 I’m currently learning Apache ECharts 5
+- 👀 I’m interested in Vue3, Nuxt, Astro 
+- 🌱 I’m currently learning Vue3
 - 💞️ see my blog at https://vcc0827.netlify.app
 - 📫 Email me at vcc80238023@163.com 
 
